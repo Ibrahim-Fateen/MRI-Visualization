@@ -28,3 +28,7 @@ manim -pql practice.py MovingAngle
 ### 2. fMRI Signal Processing
 - **Description**: A dynamic visualization of an fMRI run, showing a subject responding to a stimulus with a corresponding extracted signal.
 - **Video Preview**: 
+
+https://github.com/user-attachments/assets/67b870e6-e943-42c8-be7e-8597302c4c8f
+
+
