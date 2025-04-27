@@ -2249,5 +2249,3 @@ class EPISequenceTraversal(Scene):
         rect.move_to((p1 + p2) / 2)
 
         return rect
-
-
